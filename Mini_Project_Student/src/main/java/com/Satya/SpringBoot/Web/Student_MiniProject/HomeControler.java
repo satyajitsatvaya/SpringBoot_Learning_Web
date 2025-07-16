@@ -14,6 +14,7 @@ public class HomeControler {
 
     @PostMapping("/result")
     public String result(@ModelAttribute Student student) {
+
         return "result";
     }
 }
