@@ -1,4 +1,4 @@
-# 🌱 Spring Boot Web Learning Projects
+# 🌱 Learn Spring Boot Web 
 
 This repository contains multiple small-to-medium Spring Boot and Java web projects I built while learning Spring Web development. It includes both Servlet-based and Spring Boot-based applications.
 
