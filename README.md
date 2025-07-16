@@ -4,23 +4,39 @@ This repository contains multiple small-to-medium Spring Boot and Java web proje
 
 ---
 
-## 📂 Projects in this Repo
+📂 Projects in this Repo
+1. FirstWeb-SpringBoot
+A basic Spring Boot web application
 
-### 1. `FirstWeb-SpringBoot`
-- A basic Spring Boot web application
-- Follows MVC architecture
-- Demonstrates controller, view, and simple form handling
-- Uses `application.properties` for configuration
+Follows MVC architecture
 
-### 2. `Mini_Project_Student`
-- Mini project for managing student-related data
-- Uses Spring Boot with MVC pattern
-- Includes basic routing, templates, and Java logic
+Demonstrates controller, view, and simple form handling
 
-### 3. `Servlet Without Spring`
-- A simple Java web application using plain Servlets and JSP
-- No Spring framework
-- Helps understand how Spring improves developer experience
+Uses application.properties for configuration
+
+2. Mini_Project_Student
+Mini project for managing student-related data
+
+Uses Spring Boot with MVC pattern
+
+Includes basic routing, templates, and Java logic
+
+3. Servlet Without Spring
+A simple Java web application using plain Servlets and JSP
+
+No Spring framework
+
+Helps understand how Spring improves developer experience
+
+4. Task_Tracker_SpringBoot
+A lightweight task management app built with Spring Boot
+
+Uses in-memory List<Tasks> to store tasks (no database)
+
+Features: Add, complete, and delete tasks with form handling and page routing
+
+JSP views for interaction (index.jsp, addTask.jsp)
+
 
 ---
 
